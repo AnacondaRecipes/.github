@@ -1,28 +1,16 @@
-## Links
+{package} {version} {:snowflake:}
 
-- [Jira task]()
-- [Upstream repository]()
-- [Changelog/diff]()
-- [Related PR(s)]()
+**Destination channel:** {Snowflake | defaults}
 
---------------------
+### Links
 
-## Description
+- [{ticket_number}]() 
+- [Upstream]()
+- [conda-forge]()
+- [pypi]()
+- Dependencies:
+  - ...
 
-- Target channel: 
-- Package version: 
-### Dependency chain
-N/A
+### Changes:
 
-### Information checked from upstream: 
-
-- [ ] All dependency pinnings match with upstream.
-- [ ] All URLs are correct.
-- [ ] abs.yaml is not present at time of review.
-### Recipe changes:
-
-- None
-
-### Tests conducted:
-
-- None
+- ...
