@@ -8,9 +8,9 @@
 - [Upstream]()
 - [conda-forge]()
 - [pypi]()
-- Dependencies:
+- Relevant dependency PRs:
   - ...
 
-### Changes:
+### Explanation of changes:
 
 - ...
