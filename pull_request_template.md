@@ -5,9 +5,9 @@
 ### Links
 
 - [{ticket_number}]() 
-- [Upstream]()
+- [Upstream repository]()
+- [Upstream changelog/diff]()
 - [conda-forge]()
-- [pypi]()
 - Relevant dependency PRs:
   - ...
 
