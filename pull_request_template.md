@@ -7,7 +7,6 @@
 - [{ticket_number}]() 
 - [Upstream repository]()
 - [Upstream changelog/diff]()
-- [conda-forge]()
 - Relevant dependency PRs:
   - ...
 
